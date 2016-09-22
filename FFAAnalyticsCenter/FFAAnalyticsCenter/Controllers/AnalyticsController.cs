@@ -13,7 +13,7 @@ using OfficeOpenXml.FormulaParsing.Excel.Functions;
 using OfficeOpenXml.Style;
 
 namespace FFAAnalyticsCenter.Controllers
-{
+{ 
     public class FFAAnalytics_Data
     {
         public string Metrics { get; set; }
